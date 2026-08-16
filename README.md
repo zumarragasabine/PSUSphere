@@ -15,11 +15,19 @@
   <section>
     <table>
       <tr>
-        <img src="https://i.pinimg.com/736x/30/da/15/30da1537156fbb8db48583e83f120966.jpg" style="width:30%;">
-      </tr>
-      <tr>
-        
-      </tr>
+        <td>
+        <img src="https://i.pinimg.com/736x/06/41/76/0641769f4de157131714a0fc80936135.jpg" style="width:100%";>
+          </td>
+        <td>
+        <ul>
+          <li><b>College Management</b> – Add and manage college information.</li>
+           <li><b>Program Management</b> – Organize academic programs under each college.</li>
+           <li><b>Student Management</b> – Store and manage student records.</li>
+           <li><b>Organization Management</b> – Create and manage student organizations. </li>
+           <li><b>Organization Membership</b> – Assign students to organizations and record their membership. </li>
+        </ul>
+        </td>
+        </tr>
     </table>
   </section>
 </div>
