@@ -41,8 +41,8 @@
             <p>🧑‍🦱 JOHN EMMANUEL P. PABLICO</p>
             <section style="display:block-inline">
               <a href=""><img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail"></a>
-                <a href="https://www.facebook.com/yelangkas/"><img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=facebook"></a>
-                <a href=""><img src="https://img.shields.io/badge/-orange?style=for-the-badge&logo=github"></a>
+                <a href="https://www.facebook.com/yelangkas/"><img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=facebook" target="_blank" rel="noopener noferrer"></a>
+                <a href="https://github.com/Yelwaduu" target="_blank"  rel="noopener noferrer"><img src="https://img.shields.io/badge/-orange?style=for-the-badge&logo=github"></a>
             </section>
           </td>
             <td align="center" width="50%">
@@ -50,8 +50,8 @@
             <p>👧 SABINE ISOBEL A. ZUMARAGA</p>
            <section style="display:block-inline">
               <a href=""><img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail"></a>
-                <a href="https://www.facebook.com/sabineisobel.zumarraga/photos"><img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=facebook"></a>
-                <a href=""><img src="https://img.shields.io/badge/-orange?style=for-the-badge&logo=github"></a>
+                <a href="https://www.facebook.com/sabineisobel.zumarraga" target="blank_" rel="noopener noferrer"><img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=facebook"></a>
+                <a href="https://github.com/zumarragasabine" target="blank_" rel="noopener noferrer"><img src="https://img.shields.io/badge/-orange?style=for-the-badge&logo=github"></a>
             </section>
           </td>
         </table>
