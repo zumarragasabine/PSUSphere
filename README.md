@@ -31,7 +31,7 @@
            <li><b>Sample Data Generation</b>– Generate test data using the Faker package for development and testing.</li>
         </ul>
           <section align="center">
-            <h2>Tech Tools</h2>
+            <h2>ᴛᴇᴄʜ ᴛᴏᴏʟꜱ 🔧</h2>
              <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,py,django" /></a>
           </section>
