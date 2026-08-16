@@ -1,10 +1,10 @@
-<h1></h1>
+<h1 align="center">ᴘꜱᴜ ꜱᴘʜᴇʀᴇ</h1>
 <div>
   <img src="https://i.pinimg.com/1200x/4b/b0/87/4bb087b6c3cd12974247426817bb4dde.jpg">
 
   ---
   <section>
-    <h2> What is PSUSphere? 🔎 </h2>
+    <h2> ᴡʜᴀᴛ ɪꜱ ᴘꜱᴜꜱᴘʜᴇʀᴇ? 🔎 </h2>
     <p>
       <b>PSUSphere</b> is a web-based student organization management system built using the Django framework. It helps manage information about colleges, programs, students, and student organizations in one system. 
       The project demonstrates the basics of Django development, including database management, the admin panel, and project organization.
@@ -20,11 +20,15 @@
           </td>
         <td>
         <ul>
+          <h2 align="center">ꜰᴇᴀᴛᴜʀᴇꜱ  ⚙️</h2>
           <li><b>College Management</b> – Add and manage college information.</li>
            <li><b>Program Management</b> – Organize academic programs under each college.</li>
            <li><b>Student Management</b> – Store and manage student records.</li>
            <li><b>Organization Management</b> – Create and manage student organizations. </li>
            <li><b>Organization Membership</b> – Assign students to organizations and record their membership. </li>
+          <li><b>Admin Dashboard</b> – Manage all data through Django's built-in admin panel.</li>
+          <li><b>Search and Filter</b> – Quickly find records using search and filtering tools in the admin panel.</li>
+           <li><b>Sample Data Generation</b>– Generate test data using the Faker package for development and testing.</li>
         </ul>
         </td>
         </tr>
