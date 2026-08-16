@@ -33,6 +33,7 @@
         </td>
         </tr>
     </table>
+  </section>
       <div>
        <h1 align="center"> ᴀᴜᴛʜᴏʀꜱ ⚙️</h1>
         <table width="100%">
