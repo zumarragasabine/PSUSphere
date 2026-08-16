@@ -4,7 +4,7 @@
 
   ---
   <section>
-    <h2> ᴡʜᴀᴛ ɪꜱ ᴘꜱᴜꜱᴘʜᴇʀᴇ? 🔎 </h2>
+    <h2 align="center"> ᴡʜᴀᴛ ɪꜱ ᴘꜱᴜꜱᴘʜᴇʀᴇ? 🔎 </h2>
     <p>
       <b>PSUSphere</b> is a web-based student organization management system built using the Django framework. It helps manage information about colleges, programs, students, and student organizations in one system. 
       The project demonstrates the basics of Django development, including database management, the admin panel, and project organization.
