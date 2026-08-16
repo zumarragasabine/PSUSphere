@@ -47,7 +47,7 @@
             </section>
           </td>
             <td align="center" width="50%">
-            <img src="https://scontent.fceb6-2.fna.fbcdn.net/v/t39.30808-1/481661873_1167626681495124_2641887290804270958_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s160x160&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeHfQfsnHJGjlKgQAYbR9zOTldAsqnUL2-OV0CyqdQvb45Za2Bsc_SHxGhIEv3zQKI0-RTS_XcFlFxXjGpmp-2ZN&_nc_ohc=2momWA_LBT8Q7kNvwGCfSdj&_nc_oc=AdqW4RIjiZwjrk2fYAR0UHdQ8hC1rf1RJ06q5Fm-eGdmXE2rKR2GSWNGeEfMw4HEWs4&_nc_zt=24&_nc_ht=scontent.fceb6-2.fna&_nc_gid=PXs46DZcAHGY4zoLYCzoJQ&_nc_ss=7b2a8&oh=00_AQFSiVvAVphvTwHojSqL-jlGHNKPjlAr07niacppMzgU7A&oe=6A79BF82" style="width:70%">
+            <img src="https://scontent.fmnl13-4.fna.fbcdn.net/v/t39.30808-6/481661873_1167626681495124_2641887290804270958_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHfQfsnHJGjlKgQAYbR9zOTldAsqnUL2-OV0CyqdQvb45Za2Bsc_SHxGhIEv3zQKI0-RTS_XcFlFxXjGpmp-2ZN&_nc_ohc=LEvbPUBHZvgQ7kNvwFSp3y5&_nc_oc=AdrrnaXfzy9J71WX5_vmrl4oGLegtpApIPNzFyBiyBklBMxdtTilA5OH_FKoFuBXX_crUey6iWJUwum-1Ay_5s3F&_nc_zt=23&_nc_ht=scontent.fmnl13-4.fna&_nc_gid=aDzJndC_jEcr0bWV1YdDxQ&_nc_ss=7b2a8&oh=00_AQGbMkMw6AyRUycfCRDl5Rj65EOpl6i0j_mt5OFx5vjTwg&oe=6A87AC44 "style="width:70%">
             <p>👧 SABINE ISOBEL A. ZUMARAGA</p>
            <section style="display:block-inline">
               <a href=""><img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail"></a>
