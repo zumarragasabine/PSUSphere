@@ -79,6 +79,13 @@ class OrgMemberList(ListView):
             )
         return qs
 
+    def get_ordering(self):
+        allowed = ["student__lastname", "date_joined"]
+        sort_by = self.request.GET.get("sort_by")
+        if sort_by in allowed:
+            return sort_by
+        return "student__lastname"
+
 class OrgMemberCreateView(CreateView):
     model = OrgMember
     form_class = OrgMemberForm
@@ -162,6 +169,7 @@ class ProgramList(ListView):
     model = Program
     template_name = 'program_list.html'
     success_url = reverse_lazy('program-list')
+    
 
     def get_queryset(self):
         qs = super().get_queryset()
@@ -172,6 +180,13 @@ class ProgramList(ListView):
                 Q(college__college_name__icontains=query)
             )
         return qs
+
+    def get_ordering(self):
+        allowed = ["prog_name", "college__college_name"]
+        sort_by = self.request.GET.get("sort_by")
+        if sort_by in allowed:
+            return sort_by
+        return "prog_name"
 
 class ProgramCreateView(CreateView):
     model = Program
