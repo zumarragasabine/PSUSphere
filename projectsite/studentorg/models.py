@@ -25,7 +25,7 @@ class Program(BaseModel):
 
 
 class Organization(BaseModel):
-    name = models.CharField(max_length=250)
+    name = models.CharField(max_length=250) 
     college = models.ForeignKey(
         College,
         null=True,
