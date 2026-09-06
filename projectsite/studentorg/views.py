@@ -5,7 +5,7 @@ from studentorg.models import Organization, OrgMember, Student, College, Program
 from studentorg.forms import OrganizationForm, OrgMemberForm, StudentForm, CollegeForm, ProgramForm
 from django.urls import reverse_lazy
 from django.db.models import Q
-
+from django.utils import timezone
 
 class HomePageView(ListView):
     model = Organization
