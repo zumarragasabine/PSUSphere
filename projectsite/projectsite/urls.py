@@ -28,7 +28,7 @@ from django.views.generic import RedirectView
 urlpatterns = [
 
     # Starts the website in log in page - Emman
-    path("",RedirectView.as_view(url='/account/login/', permanent=False)),
+    path("",RedirectView.as_view(url='/accounts/login/', permanent=False)),
 
     path("admin/", admin.site.urls),
     path("accounts/", include("allauth.urls")), #allauth routes
