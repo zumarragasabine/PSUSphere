@@ -22,9 +22,14 @@ from studentorg.views import (HomePageView, OrganizationList, OrganizationCreate
                               StudentList, StudentCreateView, StudentUpdateView, StudentDeleteView, 
                               CollegeList, CollegeCreateView, CollegeUpdateView, CollegeDeleteView, 
                               ProgramList, ProgramCreateView, ProgramUpdateView, ProgramDeleteView,)
+from django.views.generic import RedirectView
 
 
 urlpatterns = [
+
+    # Starts the website in log in page - Emman
+    path("",RedirectView.as_view(url='/account/login/', permanent=False)),
+
     path("admin/", admin.site.urls),
     path("accounts/", include("allauth.urls")), #allauth routes
     path("", HomePageView.as_view(), name="home"),
